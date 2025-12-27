@@ -3,7 +3,6 @@
 </h1>
 <div align="center">
   <a href="fb.com/NhanGudBoiz"> 
-
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmljOTBsZzc1YTZvMWsyNXV0M294eGhzb3pwMnozOXJ0YngyN2twNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cpkQpkVFOOoNi/giphy.gif" height="100%" width="100%"></img>  
     </a>
 </div>
