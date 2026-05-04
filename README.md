@@ -19,9 +19,9 @@
 
 <p align="center">
 
-  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical)
+  ![GitHub stats](https://xu4nnh4n-stats.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical&v=1)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical)
+![Top Langs](https://xu4nnh4n-stats.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical&v=1)
 </p>
 
 <p align="center">
