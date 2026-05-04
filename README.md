@@ -45,10 +45,6 @@
       style="border-radius: 50%; object-fit: cover;" />
     </td>
   </tr>
-  <tr>
-    <td>
-  </td>
-  </tr>
 </table>
 <h1 align="center">Contact Me</h1>
 <p align="center">
