@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://sf-static.upanhlaylink.com/img/image_20260505d8a1dd69ca93afcdb5007d5157b584a3.jpg" alt="z7791329868164_319e3a5a9a800ed9b12b6aad57e3b6d0-modified.png" width="200" 
+      <img src="https://postimg.cc/MXhj1mz2" alt="Vk iu" width="200" 
       height="200">
     </td>
   </tr>
