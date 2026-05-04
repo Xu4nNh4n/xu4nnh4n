@@ -1,9 +1,9 @@
 <h1 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&pause=1000&color=F742DB&center=true&vCenter=true&width=435&lines=Welcome+To+Xu4nNh4n's+Profile;%F0%9F%90%9B+I+am+noob+coder" alt="Typing SVG" /></a>
 </h1>
-<h1>
+<div width = 30%, height = 30%>
   ![Visitor](https://count.getloli.com/@xu4nnh4n)
-</h1>
+</div>
 
 <br/> <a href="https://fb.com/NhanGudBoiz" target="_blank">
   </a>
