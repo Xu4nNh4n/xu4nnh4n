@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://postimg.cc/MXhj1mz2" alt="Vk iu" width="200" 
+      <img src="https://postimg.cc/MXhj1mz2" alt="https://postimg.cc/MXhj1mz2" width="200" 
       height="200">
     </td>
   </tr>
