@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-2youzs-projects.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-2youzs-projects.vercel.app/api/top-langs/?username=xu4nnh4n" />
+![GitHub stats](https://github-readme-stats-2youzs-projects.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical&format=png&v=3)
+![Top Langs](https://github-readme-stats-2youzs-projects.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical&format=png&v=3)
 </p>
 
 <p align="center">
