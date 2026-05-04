@@ -8,6 +8,6 @@
 <br/> <a href="https://fb.com/NhanGudBoiz" target="_blank">
   </a>
 
-![GitHub stats](https://github-readme-stats-2youzs-projects.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-2youzs-projects.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical)](https://github-readme-stats-2youzs-projects.vercel.app/api?username=xu4nnh4n)
 ![Top Langs](https://github-readme-stats-2youzs-projects.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=xu4nnh4n&theme=radical)
