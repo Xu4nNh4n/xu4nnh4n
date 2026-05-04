@@ -19,9 +19,9 @@
 
 <p align="center">
 
-  ![GitHub stats](https://xu4nnh4n-stats.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical&v=1)
+  ![GitHub stats](https://xu4nnh4n-stats.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical&v=10)
 
-![Top Langs](https://xu4nnh4n-stats.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical&v=1)
+![Top Langs](https://xu4nnh4n-stats.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical&v=10)
 </p>
 
 <p align="center">
