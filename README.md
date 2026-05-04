@@ -8,6 +8,6 @@
 <br/> <a href="https://fb.com/NhanGudBoiz" target="_blank">
   </a>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=xu4nnh4n&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical)
