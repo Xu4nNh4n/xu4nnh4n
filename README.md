@@ -39,10 +39,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://sf-static.upanhlaylink.com/img/image_202605054094639324f2d907291926b416c23363.jpg" 
-      width="200" 
-      height="200"
-      style="border-radius: 50%; object-fit: cover;" />
+      <img src="https://sf-static.upanhlaylink.com/img/image_20260505d8a1dd69ca93afcdb5007d5157b584a3.jpg" alt="z7791329868164_319e3a5a9a800ed9b12b6aad57e3b6d0-modified.png">
     </td>
   </tr>
 </table>
