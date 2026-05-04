@@ -1,7 +1,10 @@
 <h1 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&pause=1000&color=F742DB&center=true&vCenter=true&width=435&lines=Welcome+To+Xu4nNh4n's+Profile;%F0%9F%90%9B+I+am+noob+coder" alt="Typing SVG" /></a>
 </h1>
+
 <br/> <a href="https://fb.com/NhanGudBoiz" target="_blank">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmljOTBsZzc1YTZvMWsyNXV0M294eGhzb3pwMnozOXJ0YngyN2twNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cpkQpkVFOOoNi/giphy.gif" width="100%" style="max-width: 500px;">
   </a>
-</div>
+![Visitor](https://count.getloli.com/@xu4nnh4n)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=xu4nnh4n&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical)
