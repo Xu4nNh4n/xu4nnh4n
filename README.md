@@ -19,7 +19,7 @@
       <img src="https://xu4nnh4n-stats.vercel.app/api?username=xu4nnh4n&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
     </td>
     <td>
-      <img src="https://xu4nnh4n-stats.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="360px" />
+      <img src="https://xu4nnh4n-stats.vercel.app/api/top-langs/?username=xu4nnh4n&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,tex,c%2B%2B &langs_count=5" width="360px" />
     </td>
   </tr>
 </table>
